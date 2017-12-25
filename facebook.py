@@ -10,7 +10,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 driver=webdriver.Chrome()
 driver.get('https://www.facebok.com/login')   #driver.get(url)-- We get url by using driver which we initialy load.    
-print ("Opened Twitter")
+print ("Opened Facebook")
 time.sleep(5)    #Just wait for sometime.
 email = driver.find_element_by_xpath("//input[@id='email' or @name='email']") #Find email textaera.
 email.send_keys('rohitpandey486@gmail.com')  #Send email to this text area. 
