@@ -1,2 +1,2 @@
-# Selenium-Webdriver-
-Script to open a browser,login in social sites and post automatically using Selenium Webdriver
+# Selenium-Webdriver
+Script to open a browser, log in to social sites and post automatically using Selenium Webdriver
